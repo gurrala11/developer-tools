@@ -1,0 +1,15 @@
+h1{
+    color:pink
+}
+#x{
+    color:aqua
+}
+.y{
+    color:aquamarine
+}
+*{
+    background-color: whitesmoke;
+}
+h2,p{
+    color:aquamarine
+}
